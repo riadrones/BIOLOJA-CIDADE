@@ -1,0 +1,55 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_31864E1F_6A38_1956_41C9_16F5DCAAB493.source = https://maps.app.goo.gl/DtibLZ4XVconWnjQ8
+LinkBehaviour_AF78E265_83EA_7EB4_41DA_0EB36BCAFD30.source = https://maps.app.goo.gl/DtibLZ4XVconWnjQ8
+LinkBehaviour_1E20FBB8_749F_3836_41C9_6CC1AAB41360.source = https://search.google.com/local/writereview?placeid=ChIJ-xTnFL7fxpQRcS2SOuNk6S8
+LinkBehaviour_AF7CE26A_83EA_7EBC_41B5_7C9A9335CBC5.source = https://search.google.com/local/writereview?placeid=ChIJ-xTnFL7fxpQRcS2SOuNk6S8
+LinkBehaviour_AF796262_83EA_7EAC_41D9_6C6FF906979F.source = https://wa.me/5514998945605
+LinkBehaviour_18EED120_6A28_0B6A_41C8_A6205151D19E.source = https://wa.me/5514998945605
+LinkBehaviour_AF7A6266_83EA_7EB4_41C8_B372ED216AA0.source = https://www.facebook.com/biolojacidade/
+LinkBehaviour_321FA231_6A38_096A_41D6_A7C3A0A33580.source = https://www.facebook.com/biolojacidade/
+LinkBehaviour_AF782266_83EA_7EB4_41D9_544051233DCA.source = https://www.facebook.com/biolojacidade/
+LinkBehaviour_0CDD875D_6AE8_17DA_41B0_DC7F8DDE55B9.source = https://www.facebook.com/biolojacidade/
+LinkBehaviour_0BB44390_6A28_0F2A_41B9_BAAD01DA6F74.source = https://www.instagram.com/bioloja_cidade/
+LinkBehaviour_AF7DA26B_83EA_7EBC_41D9_58967BB3366B.source = https://www.instagram.com/bioloja_cidade/
+
+## Media
+
+### Audio
+audiores_CEB41C10_84FA_4A6C_41A4_37681535E62D.mp3Url = media/audio_C1A444CB_84FA_BBFC_41D7_CE5DB2CB19F0_en.mp3
+audiores_F4F016A8_85DE_C7BC_41D3_AE6DE1926C90.mp3Url = media/audio_E73BDF96_85DE_C594_41D2_4C4198217E99_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_7C3757FF_507D_A223_41C5_D1141AF367A5.label = IMG_20241218_084645_00_merged.  editad
+panorama_7C37ABD7_507C_6263_41C2_02DD2976246A.label = IMG_20241218_084731_00_merged
+panorama_7C3835F5_507C_6627_41CE_87932BCC5ABC.label = IMG_20241218_084832_00_merged
+panorama_7C38BF29_507C_622F_41B6_95C4F68B221B.label = IMG_20241218_084921_00_merged
+panorama_7C3788AE_507C_AE25_41CE_73445C75F8A1.label = IMG_20241218_085029_00_merged
+panorama_7C375237_507C_A223_41D1_C4F0088A82A9.label = IMG_20241218_085120_00_merged
+panorama_7C369BE1_507C_A25F_41C2_1FE72476FEA4.label = IMG_20241218_085203_00_merged
+panorama_7FF50AEC_507D_A225_41A3_75361D8F8D52.label = IMG_20241218_085355_00_merged
+panorama_7C36E577_507C_E623_41C9_2A33E3BBEFD4.label = IMG_20241218_085738_00_merged
+
+## Skin
+
+### Button
+Button_2A5C37DE_7482_C86A_41B7_596BC78C5D01.label = NOS AVALIE NO GOOGLE
+Button_2A5C37DE_7482_C86A_41B7_596BC78C5D01_mobile.label = NOS AVALIE NO GOOGLE
+
+### Image
+Image_07EB1315_6A28_0F2A_416E_B3133A049CC5.url = skin/Image_07EB1315_6A28_0F2A_416E_B3133A049CC5_en.gif
+Image_07EB1315_6A28_0F2A_416E_B3133A049CC5_mobile.url = skin/Image_07EB1315_6A28_0F2A_416E_B3133A049CC5_mobile_en.gif
+Image_4A1F23BA_653D_94F6_41A7_F344FC4E6013.url = skin/Image_4A1F23BA_653D_94F6_41A7_F344FC4E6013_en.png
+Image_4A1F23BA_653D_94F6_41A7_F344FC4E6013_mobile.url = skin/Image_4A1F23BA_653D_94F6_41A7_F344FC4E6013_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 14

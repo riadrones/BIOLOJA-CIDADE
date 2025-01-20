@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Damascus Light";
+   src: url("fonts/Damascus Light.woff") format("woff"), url("fonts/Damascus Light.eot") format("embedded-opentype"), url("fonts/Damascus Light.ttf") format("truetype"), url("fonts/Damascus Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Md BT Bold";
+   src: url("fonts/Futura Md BT Bold.woff") format("woff"), url("fonts/Futura Md BT Bold.eot") format("embedded-opentype"), url("fonts/Futura Md BT Bold.ttf") format("truetype"), url("fonts/Futura Md BT Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
